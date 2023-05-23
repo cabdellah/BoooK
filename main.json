@@ -1,0 +1,77 @@
+{
+  "list": [
+    {
+      "name": "FML",
+      "description": "FML is a song by American rapper Kanye West from his seventh studio album The Life of Pablo (2016), which features vocals from Canadian singer the Weeknd.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image1.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio1.mpeg"
+    },
+    {
+      "name": "Laila",
+      "description": "O'Meri Laila is a Hindi language song and is sung by Atif Aslam and Jyotica Tangri. O'Meri Laila, from the album Laila Majnu, was released in the year 2018.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image2.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio2.mpeg"
+    },
+    {
+      "name": "Hindi bollywood",
+      "description": "It is a Hindi language song and is sung by Arijit Singh and Neha Kakkar.from the album Raabta, was released in the year 2017.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image3.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio3.mpeg"
+    },
+    {
+      "name": "Dandeliones",
+      "description": "The song Dandelion by Halsey is a love song that uses the metaphor of blowing dandelions to make wishes to express the singer's feelings and desires for the man she loves1.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image4.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio4.mpeg"
+    },
+    {
+      "name": "FML",
+      "description": "FML is a song by American rapper Kanye West from his seventh studio album The Life of Pablo (2016), which features vocals from Canadian singer the Weeknd.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image1.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio1.mpeg"
+    },
+    {
+      "name": "Laila",
+      "description": "O'Meri Laila is a Hindi language song and is sung by Atif Aslam and Jyotica Tangri. O'Meri Laila, from the album Laila Majnu, was released in the year 2018.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image2.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio2.mpeg"
+    },
+    {
+      "name": "Hindi bollywood",
+      "description": "It is a Hindi language song and is sung by Arijit Singh and Neha Kakkar.from the album Raabta, was released in the year 2017.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image3.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio3.mpeg"
+    },
+    {
+      "name": "Dandeliones",
+      "description": "The song Dandelion by Halsey is a love song that uses the metaphor of blowing dandelions to make wishes to express the singer's feelings and desires for the man she loves1.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image4.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio4.mpeg"
+    },   
+    {
+      "name": "FML",
+      "description": "FML is a song by American rapper Kanye West from his seventh studio album The Life of Pablo (2016), which features vocals from Canadian singer the Weeknd.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image1.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio1.mpeg"
+    },
+    {
+      "name": "ghana",
+      "description": "O'Meri Laila is a Hindi language song and is sung by Atif Aslam and Jyotica Tangri. O'Meri Laila, from the album Laila Majnu, was released in the year 2018.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image2.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio2.mpeg"
+    },
+    {
+      "name": "wedding bollywood",
+      "description": "It is a Hindi language song and is sung by Arijit Singh and Neha Kakkar.from the album Raabta, was released in the year 2017.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image3.jpg",
+      "audio_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/audio/audio3.mpeg"
+    },
+    {
+      "name": "cabdellah",
+      "description": "The song Dandelion by Halsey is a love song that uses the metaphor of blowing dandelions to make wishes to express the singer's feelings and desires for the man she loves1.",
+      "image_url":"https://github.com/asv0018/asv0018/raw/8c254439e956800feae136592fea9f618c78ce4e/images/image4.jpg",
+      "audio_url":"https://radiodzair.net:8070/orientale?shoutcast"
+    }
+    
+  ]
+}
