@@ -1,0 +1,2798 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2596,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "EpI3AQAAIAAJ",
+      "etag": "MFUTIZ5uvlM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EpI3AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Devant la fiction, dans le monde",
+        "authors": [
+          "Catherine Grall",
+          "Marielle Macé"
+        ],
+        "publishedDate": "2009",
+        "description": "La fiction, à sa manière, configure une expérience du monde: elle ne se contente pas de le réfléchir, elle y entre avec force, et nous propose de le comprendre et de le sentir autrement. Que donne-t-elle à \" voir \" du monde ? Qu'en rejette-t-elle ? Comment \" voyons-nous e le monde à travers la fiction, et le monde après la fiction ? Ce volume examine, autour d'oeuvres précises, les façons dont la fiction littéraire ou cinématographique, et le romanesque qui en est le \" comble \", modalisent nos perceptions. Les théories de la représentation, la rhétorique, l'histoire littéraire, la philosophie, les sciences cognitives, l'esthétique... y entrent en débat sans renvoyer dos à dos le \" comprendre et le \" sentir \". On y observe comment la fiction littéraire modélise un univers : repensant, déplaçant, contredisant les savoirs, elle troque le vrai contre le vraisemblable, et les belles infidèles n'y cachent peut-être une langue que pour défaire le monde d'une autre...; les romans allégoriques, les contes philosophiques ou les fictions indiennes contemporaines en témoignent. On mesure aussi l'ampleur des mondes inédits qu'elle produit : des récits de catastrophe classiques à l'univers de la science-fiction, de Balzac à Volodine en passant par la tangence de figures qui disent et ne disent pas le réel, la fiction engendre des possibles et des impossibles qui font toujours sens. On observe enfin comment, modulant le temps et redimensionnant l'espace, son imaginaire fait retour sur notre monde pour proposer des scenarii narratifs ou visuels qui réorganisent notre vie, et nous conduisent à l'éprouver à nouveaux frais.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105133357843"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EpI3AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EpI3AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=EpI3AQAAIAAJ&q=Fiction&dq=Fiction&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EpI3AQAAIAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Devant_la_fiction_dans_le_monde.html?hl=&id=EpI3AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EpI3AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La \u003cb\u003efiction\u003c/b\u003e, à sa manière, configure une expérience du monde : elle ne se contente pas de le réfléchir, elle y entre avec force, et nous propose de le comprendre et de le sentir autrement Que donne- t-elle à « voir » du monde?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c7kZAQAAIAAJ",
+      "etag": "VJkToz+YPyE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c7kZAQAAIAAJ",
+      "volumeInfo": {
+        "title": "La fiction et l'apparaître",
+        "authors": [
+          "Eric Clemens"
+        ],
+        "publisher": "Albin Michel",
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105009027280"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c7kZAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c7kZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=c7kZAQAAIAAJ&q=Fiction&dq=Fiction&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=c7kZAQAAIAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_fiction_et_l_appara%C3%AEtre.html?hl=&id=c7kZAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c7kZAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La \u003cb\u003efiction\u003c/b\u003e et l &#39; apparaître Ce livre a pour origine le désir d &#39; unifier une double expérience , littéraire et philosophique , en une synthèse révélatrice de leurs enjeux actuels . Eric Clemens , qui enseigne la philosophie à Bruxelles&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h9JZAAAAMAAJ",
+      "etag": "y7TXlHPJSN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h9JZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Fiction & connaissance",
+        "subtitle": "essai sur le savoir à l'œuvre et l'œuvre de fiction",
+        "authors": [
+          "Catherine Coquio",
+          "Régis Salado"
+        ],
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "1998",
+        "description": "Pour connaître, faut-il feindre ? Quelles vérités disent les fictions ? Que sait la littérature ? Que raconte le savant ? Théorie littéraire, poésie, histoire, mais aussi biologie, ethnologie, sociologie, esthétique, font ici alliance pour suivre la fiction à la trace dans sa traversée des savoirs et saisir son intelligence. Ce volume invite à lire ensemble les débats de Stengers et Sokal, les contes sociologiques de Goffman, les fables darwiniennes, les fictions savantes de Balzac, Flaubert, Carroll, Joyce, Kundera, les sciences intimes de Malinowski et Bataille, l'imagination des possibles de Lyotard, Goodman et Agamben, l'érotique du savoir de Montaigne, Armand-Gette, De Certeau, Adorno, Blumenberg...",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015047581569"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h9JZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h9JZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=h9JZAAAAMAAJ&q=Fiction&dq=Fiction&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=h9JZAAAAMAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fiction_connaissance.html?hl=&id=h9JZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h9JZAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eFICTION\u003c/b\u003e &amp; CONNAISSANCE Pour connaître , faut - il feindre ? Quelles vérités disent les \u003cb\u003efictions\u003c/b\u003e ? Que sait la littérature ? Que raconte le savant ? Théorie littéraire , poésie , histoire , mais aussi biologie , ethnologie , sociologie&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DkYMAAAAIAAJ",
+      "etag": "MX6bo+6EHFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DkYMAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Théorie et fiction",
+        "subtitle": "le nouveau roman hispano-américain",
+        "authors": [
+          "Milagros Ezquerro"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015039588721"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Spanish American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DkYMAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DkYMAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=DkYMAAAAIAAJ&q=Fiction&dq=Fiction&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DkYMAAAAIAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Th%C3%A9orie_et_fiction.html?hl=&id=DkYMAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DkYMAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... à laquelle on assigne une activité de lecture : ainsi , par exmple , dans les classiques “ avertissements au lecteur &quot; , ou les modernes interpellations au lecteur à l &#39; intérieur des \u003cb\u003efictions\u003c/b\u003e ( “ mes lecteurs se demanderont ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iMC9OELUNSgC",
+      "etag": "GC9n84yt7jA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iMC9OELUNSgC",
+      "volumeInfo": {
+        "title": "Télécommunications et science-fiction",
+        "authors": [
+          "Thomas Michaud"
+        ],
+        "publisher": "michaud",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2953257381"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782953257380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 654,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iMC9OELUNSgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iMC9OELUNSgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=iMC9OELUNSgC&pg=PA19&dq=Fiction&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=iMC9OELUNSgC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/T%C3%A9l%C3%A9communications_et_science_fiction.html?hl=&id=iMC9OELUNSgC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/T%C3%A9l%C3%A9communications_et_science_fiction-sample-pdf.acsm?id=iMC9OELUNSgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iMC9OELUNSgC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Freedman dans Critical theory and science \u003cb\u003efiction\u003c/b\u003e ( 2000 ) , de Guy Lardeau dans \u003cb\u003eFictions\u003c/b\u003e philosophiques et science \u003cb\u003efiction\u003c/b\u003e : récréation philosophique ( 1988 ) , de Jacques Goimard dans Critique de la science - \u003cb\u003efiction\u003c/b\u003e ( 2002 ) , ou de&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N1SGEAAAQBAJ",
+      "etag": "8y/x0z7ssHg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N1SGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Au coeur de la Science-fiction",
+        "authors": [
+          "Gillian Brousse"
+        ],
+        "publisher": "BoD - Books on Demand",
+        "publishedDate": "2022-08-31",
+        "description": "La Science-fiction incarne pour certains le domaine des possibles, alors que pour d'autres elle apparaît comme puérile, car souvent réduite à des stéréotypes éculés et des oeuvres non représentatives. Avec cet ouvrage, nous entendons vous faire (re) découvrir ce vaste genre aux multiples facettes capable comme nul autre de s'interroger sur notre monde. Nous allons parcourir le temps à la recherche du moment où tout a commencé, rencontrer les précurseurs et les personnalités du genre, nous faufiler au coeur de récits majeurs et explorer ses thèmes de prédilection. Qui que vous soyez, peu importe où et quand vous existez, vous découvrirez des oeuvres qui résonneront en vous. Alors, respirez un grand coup et accrochez-vous à ce livre, mais n'attachez pas vos ceintures, car là où nous allons, nous n'aurons plus besoin de routes... Avec la participation de Rachel Gali, Wilfried Renaut, Magali Lefebvre, A.F Lune, Louise Le Bars et Laurent Cazuguel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782490417964"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2490417967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 598,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N1SGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N1SGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=N1SGEAAAQBAJ&pg=PA27&dq=Fiction&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=N1SGEAAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Au_coeur_de_la_Science_fiction.html?hl=&id=N1SGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Au_coeur_de_la_Science_fiction-sample-pdf.acsm?id=N1SGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N1SGEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Une période plus clémente à l&#39;égard de la SF, dont le même Larousse déclare désormais : «Science-\u003cb\u003efiction\u003c/b\u003e n.f. (pl. Sciences-\u003cb\u003efictions\u003c/b\u003e). Genre littéraire et cinématographique dont la \u003cb\u003efiction\u003c/b\u003e se fonde sur l&#39;évolution de l&#39;humanité et,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_KxaAAAAYAAJ",
+      "etag": "VevJlzP6nFQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_KxaAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Reference Guide to Short Fiction",
+        "authors": [
+          "Thomas Riggs"
+        ],
+        "publisher": "Saint James Press",
+        "publishedDate": "1999",
+        "description": "Reference Guide to Short Fiction provides study and commentary on the most instrumental writers of short fiction through the 20th century. International in scope, this single scholarly volume includes 779 entries on 377 authors and 402 short stories.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000043995066"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1258,
+        "printType": "BOOK",
+        "categories": [
+          "Best books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_KxaAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_KxaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_KxaAAAAYAAJ&q=Fiction&dq=Fiction&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_KxaAAAAYAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reference_Guide_to_Short_Fiction.html?hl=&id=_KxaAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_KxaAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was a sound education, for, on behalf of American writing, Irving had borrowed from two of the major sources of short \u003cb\u003efiction\u003c/b\u003e— the revived European folktale and the ever rich funds of the “arabesque” Mediterranean tradition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IDQmAQAAMAAJ",
+      "etag": "MEKTNPVfo/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IDQmAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Worlds of Victorian Fiction",
+        "authors": [
+          "Jerome Hamilton Buckley"
+        ],
+        "publisher": "Cambridge, Mass. : Harvard University Press",
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39076005312413"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "categories": [
+          "English fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IDQmAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IDQmAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IDQmAQAAMAAJ&q=Fiction&dq=Fiction&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IDQmAQAAMAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Worlds_of_Victorian_Fiction.html?hl=&id=IDQmAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IDQmAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a language, however, it can cooperate in the creation of \u003cb\u003efictions\u003c/b\u003e: “And he said, This schoolroom is an immense town, and in it there are a million of inhabitants, and only five-and-twenty are starved to death in the streets,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XYFmzgEACAAJ",
+      "etag": "xonzG41CJEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XYFmzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Princess and the Goblin",
+        "subtitle": "With Original Illustrations",
+        "authors": [
+          "George MacDonald"
+        ],
+        "publishedDate": "2021-04-16",
+        "description": "One of the most successful and beloved of Victorian fairy tales, George Macdonald's The Princess and the Goblin tells the story of young Princess Irene and her friend Curdie, who must outwit the threatening goblins who live in caves beneath her mountain home. From the get-go the narrator explains that to be a princess means to be a proper girl, or prince in the case of a boy. He basically equates royal titles as meaning someone is of good character. The narrator makes a point of noting that some royal princesses are not true princesses due to character flaws. I liked what he was getting at. Anyways, he uses this discussion to begin telling us about Princess Irene. Eight-year-old Princess Irene lives a lonely life in a castle in a wild, desolate, mountainous kingdom, with only her nursemaid, Lootie, for company. Her father, the king, is normally absent, and her mother is dead.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798739043627"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XYFmzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XYFmzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XYFmzgEACAAJ&dq=Fiction&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XYFmzgEACAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Princess_and_the_Goblin.html?hl=&id=XYFmzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XYFmzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of the most successful and beloved of Victorian fairy tales, George Macdonald&#39;s The Princess and the Goblin tells the story of young Princess Irene and her friend Curdie, who must outwit the threatening goblins who live in caves beneath ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a7KLDwAAQBAJ",
+      "etag": "DBundQkymcY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a7KLDwAAQBAJ",
+      "volumeInfo": {
+        "title": "History of Fiction in China",
+        "authors": [
+          "Zhi Dao"
+        ],
+        "publisher": "DeepLogic",
+        "description": "The book provides highlights on the key concepts and trends of evolution in History of Fiction in China, as one of the series of books of “China Classified Histories”.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a7KLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a7KLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=a7KLDwAAQBAJ&pg=PP1&dq=Fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=a7KLDwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/History_of_Fiction_in_China.html?hl=&id=a7KLDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/History_of_Fiction_in_China-sample-pdf.acsm?id=a7KLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a7KLDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Historical evolution of the concept of \u003cb\u003efiction\u003c/b\u003e The connotation of the word &quot;\u003cb\u003efiction\u003c/b\u003e&quot; has undergone a long process of historical evolution. From the perspective of etymology, the word &quot;\u003cb\u003efiction\u003c/b\u003e&quot; was first seen in &quot;Zhuangzi Foreign&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NYD5FSeERakC",
+      "etag": "vV02tXcB1QI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NYD5FSeERakC",
+      "volumeInfo": {
+        "title": "Desire and Domestic Fiction",
+        "subtitle": "A Political History of the Novel",
+        "authors": [
+          "Nancy Armstrong"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "1987-05-07",
+        "description": "\"A strikingly original treatment of the rise of the novel, Desire and Domestic Fiction makes a major contribution to feminist theory, to the understanding of the role of gender in culture and its relation to political change, and to studies in the history of the British novel. Its successful application of contemporary theory, especially its use of Foucault's History of Sexuality, will interest scholars involved in the criticism of culture\"--Jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195041798"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0195041798"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": [
+          "Desire in literature"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NYD5FSeERakC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NYD5FSeERakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NYD5FSeERakC&pg=PT43&dq=Fiction&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NYD5FSeERakC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Desire_and_Domestic_Fiction.html?hl=&id=NYD5FSeERakC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Desire_and_Domestic_Fiction-sample-epub.acsm?id=NYD5FSeERakC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Desire_and_Domestic_Fiction-sample-pdf.acsm?id=NYD5FSeERakC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NYD5FSeERakC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Understanding perhaps better than anyone else the power that is inherent in the word, he proclaims, in the chapter entitled The \u003cb\u003eFiction\u003c/b\u003e of an Original Contract, that &quot;the season of \u003cb\u003eFiction\u003c/b\u003e is now over: insomuch that what formerly might&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rFHHAgAAQBAJ",
+      "etag": "W+jq0RNokBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rFHHAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Discovering Fiction Level 1 Student's Book",
+        "subtitle": "A Reader of North American Short Stories",
+        "authors": [
+          "Judith Kay",
+          "Rosemary Gelshenen"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2012-12-14",
+        "description": "North American short stories enhance students' reading skills, language learning, and enjoyment of literature. Discovering Fiction, Second Edition, Student's Book 1 presents stories with universal appeal to engage students and make them think critically. Among the authors included are O. Henry, William Saroyan, Gwendolyn Brooks, Isaac Asimov, and Sandra Cisneros. Extensive pre-reading activities capture students' interest. Post-reading activities check their comprehension, increase their knowledge of grammar and vocabulary, and provide thought-provoking discussion and writing assignments. Literary term explanations and tasks enhance students' appreciation of literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107652224"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107652227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rFHHAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rFHHAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rFHHAgAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rFHHAgAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discovering_Fiction_Level_1_Student_s_Bo.html?hl=&id=rFHHAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Discovering_Fiction_Level_1_Student_s_Bo-sample-pdf.acsm?id=rFHHAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rFHHAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "North American short stories enhance students&#39; reading skills, language learning, and enjoyment of literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lOijDwAAQBAJ",
+      "etag": "bDocDP0RFOY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lOijDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Italian Science Fiction",
+        "subtitle": "The Other in Literature and Film",
+        "authors": [
+          "Simone Brioni",
+          "Daniele Comberiati"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2019-07-18",
+        "description": "This book explores Italian science fiction from 1861, the year of Italy’s unification, to the present day, focusing on how this genre helped shape notions of Otherness and Normalness. In particular, Italian Science Fiction draws upon critical race studies, postcolonial theory, and feminist studies to explore how migration, colonialism, multiculturalism, and racism have been represented in genre film and literature. Topics include the role of science fiction in constructing a national identity; the representation and self-representation of “alien” immigrants in Italy; the creation of internal “Others,” such as southerners and Roma; the intersections of gender and race discrimination; and Italian science fiction’s transnational dialogue with foreign science fiction. This book reveals that though it is arguably a minor genre in Italy, science fiction offers an innovative interpretive angle for rethinking Italian history and imagining future change in Italian society.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030193263"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3030193268"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lOijDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lOijDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lOijDwAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lOijDwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Italian_Science_Fiction.html?hl=&id=lOijDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Italian_Science_Fiction-sample-epub.acsm?id=lOijDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Italian_Science_Fiction-sample-pdf.acsm?id=lOijDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lOijDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book explores Italian science fiction from 1861, the year of Italy’s unification, to the present day, focusing on how this genre helped shape notions of Otherness and Normalness."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IAa5DwAAQBAJ",
+      "etag": "vwE7xz27h1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IAa5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "L'odyssée du Cybérius",
+        "subtitle": "Roman de science-fiction",
+        "authors": [
+          "Denis Ravel"
+        ],
+        "publisher": "La Compagnie Littéraire",
+        "publishedDate": "2019-10-25",
+        "description": "Rejoignez l'équipage du Cybérius en 2450 pour parcourir l'univers et ses secrets, en quête d'un futur pour l'Humanité. À cette époque, les fusées porteuses ne sont plus nécessaires, la puissance des moteurs atomiques suffit à propulser les vaisseaux hors de l’espace terrestre. Le Cybérius traversa donc l’atmosphère à grande vitesse et fut hors de vue quelques secondes plus tard... À bord les membres de l’équipage seront-ils à la hauteur des dangers à surmonter pour accomplir leur mission ? Un voyage dans l'espace-temps rempli de découvertes et d'aventures qui nous invite à dépasser les frontières de notre réel... EXTRAIT La rentrée dans le champ d’astéroïdes fut fracassante, le champ visuel des trois pilotes fut tout à coup comme parsemé d’étoiles. Isis menait le vaisseau avec une parfaite maîtrise. — Comme c’est beau ! s’écria Kennedy. — On se damnerait pour un tel paysage, répondit Isis en se tournant vers Goethe, le sourire aux lèvres. Le vaisseau, souple et aérien, semblait poursuivre sa route, traçant dans l’espace le sillon de son immuable destin. Soudain, tout sembla s’anéantir et se détruire en un instant, un terrible choc éclata contre les parois du Cybérius. Les témoins lumineux et sonores se mirent en action. — Destruction et dépressurisation en zones 4, 8, 12, 14 et 16, hurla Kennedy. L’astéroïde avait fait énormément de dégâts. — Nous avons perdu trois hommes en zone 4, deux hommes en zone 8 et trois femmes en zone 16. La moitié de l’équipage homme et un tiers des femmes en état d’hibernation venaient de disparaître, emportés ou tués par le vide sidéral. Les sirènes hurlaient, à l’intérieur du vaisseau les doublures s’agitaient avec un incroyable sang-froid. CE QU'EN PENSE LA CRITIQUE Une histoire SF qui évolue dans un univers fouillé empreint de péripéties étranges et de poésie. - Irisyne, Babelio À PROPOS DE L'AUTEUR Fils d’artistes peintres, Denis Ravel a été tour à tour publicitaire, puis éditeur. Passionné par les écrivains romantiques du XIXe siècle il apprécie particulièrement Edgar Allan Poe, Gérard de Nerval, Théophile Gautier, ainsi que les romans d’aventures. Citons : Typhon de Joseph Conrad, ou encore Lord Jim, voir entre autre les aventures d’Arthur Gordon Pym. Aujourd’hui auteur d’une vingtaine de romans et de nouvelles, il aime particulièrement écrire ce qu’il appelle ses duels amoureux. Il apprécie d’intégrer une note de fantastique dans ses histoires. Croyant, il manifeste clairement sa foi dans ses écrits.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782876836846"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "287683684X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IAa5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IAa5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=IAa5DwAAQBAJ&dq=Fiction&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IAa5DwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_odyss%C3%A9e_du_Cyb%C3%A9rius.html?hl=&id=IAa5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IAa5DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "- Irisyne, Babelio À PROPOS DE L&#39;AUTEUR Fils d’artistes peintres, Denis Ravel a été tour à tour publicitaire, puis éditeur."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K7-sDQAAQBAJ",
+      "etag": "sYOi/avXOpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K7-sDQAAQBAJ",
+      "volumeInfo": {
+        "title": "جراح مغتربة",
+        "authors": [
+          "يحانث ماء العينين"
+        ],
+        "publisher": "Al Manhal",
+        "publishedDate": "2014-01-01",
+        "description": "يقدم هذا الكتاب مجموعة من الخواطر كتبتها الكاتبة تغريد إبراهيم الطاسان، وهي خواطر تدور حول جمال الحياة حين يقتنع كل منا أن لها أربعة فصول كفصول السنة، لو عرفنا كيف نتعايش مع كل فصل؛ لرأينا جمال الحياة، ولتذوقنا متعتها بسعادة ولذة، ومن محتويات الكتاب: (بوح مشاعر، أزمنة وأماكن، مأساة أنثى اغتالتها الغيرة، الحب عنوان السعادة، روحانيات).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9796500184432"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K7-sDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K7-sDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com/books?id=K7-sDQAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=K7-sDQAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D8%AC%D8%B1%D8%A7%D8%AD_%D9%85%D8%BA%D8%AA%D8%B1%D8%A8%D8%A9.html?hl=&id=K7-sDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/%D8%AC%D8%B1%D8%A7%D8%AD_%D9%85%D8%BA%D8%AA%D8%B1%D8%A8%D8%A9-sample-pdf.acsm?id=K7-sDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K7-sDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "يقدم هذا الكتاب مجموعة من الخواطر كتبتها الكاتبة تغريد إبراهيم الطاسان، وهي خواطر تدور حول جمال الحياة حين يقتنع كل منا أن لها ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j2fTDwAAQBAJ",
+      "etag": "FVfw9vYVwJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j2fTDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Irresistible in a Kilt",
+        "authors": [
+          "Anna Durand"
+        ],
+        "publisher": "Jacobsville Books",
+        "publishedDate": "2020-09-07",
+        "description": "The sweetest lies are the most seductive… Eleven years ago, I fell in love with Alex Thorne. He was beautiful, charming, sexy, and the best lover I'd ever had. He's also a bloody liar. Every word that comes out of his mouth is a half-truth, a con, or an evasion. Now I find out my dream job at a university in America is his way of pulling me back into his world. I will never, never fall under the spell of the British Bastard again. Catriona MacTaggart is the one that got away. The Scottish lass has fire in her soul and in her eyes, especially when she punches me. I can handle that. Maybe the truth and I do have a different sort of relationship, but I've never lied about my feelings for Cat. I'll do whatever it takes to get her back, even if it means deceiving her. Alex still knows exactly how to get under my skin, and despite all my intentions, I still can't resist that body and that smile. Maybe it's time I turn the tables and seduce the seducer, to finally solve the mystery he doesn't want me to unravel. Who is Alex Thorne?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781949406245"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1949406245"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j2fTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j2fTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=j2fTDwAAQBAJ&pg=PT304&dq=Fiction&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=j2fTDwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Irresistible_in_a_Kilt.html?hl=&id=j2fTDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j2fTDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Identifiers: LCCN 2020911888 | ISBN 978-1-949406-25-2 (paperback) | ISBN 978-1-94940624-5 (ebook) | ISBN 978-1-949406-26-9 (audiobook) Subjects: LCSH: Man-woman relationships--\u003cb\u003eFiction\u003c/b\u003e. | Scots--\u003cb\u003eFiction\u003c/b\u003e. | British--\u003cb\u003eFiction\u003c/b\u003e."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kmrRxqes2B4C",
+      "etag": "Ph5ZMdBPCeI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kmrRxqes2B4C",
+      "volumeInfo": {
+        "title": "Different Engines",
+        "subtitle": "How Science Drives Fiction and Fiction Drives Science",
+        "authors": [
+          "M. Brake",
+          "N. Hook"
+        ],
+        "publisher": "Palgrave Macmillan",
+        "publishedDate": "2007-11-04",
+        "description": "Since its emergence in the seventeenth century, science fiction has been a sustained, coherent and subversive check on the promises and pitfalls of science. In their turn, invention and discovery have forced fiction writers to confront the nature and limits of reality. Different Engines traces the way in which we've imagined the future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780230553897"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0230553893"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kmrRxqes2B4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kmrRxqes2B4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kmrRxqes2B4C&printsec=frontcover&dq=Fiction&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kmrRxqes2B4C&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Different_Engines.html?hl=&id=kmrRxqes2B4C"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kmrRxqes2B4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In their turn, invention and discovery have forced fiction writers to confront the nature and limits of reality. Different Engines traces the way in which we&#39;ve imagined the future."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xY_wLc0i3w8C",
+      "etag": "cEqkMhZFjts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xY_wLc0i3w8C",
+      "volumeInfo": {
+        "title": "The Life and Times of Major Fiction",
+        "subtitle": "Stories",
+        "authors": [
+          "Jonathan Baumbach"
+        ],
+        "publisher": "University of Alabama Press",
+        "publishedDate": "1986",
+        "description": "Fourteen stories use images of comedy and nightmare to deal with parents, children, love, marriage, passion, and divorce",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0932511082"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780932511089"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xY_wLc0i3w8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xY_wLc0i3w8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xY_wLc0i3w8C&printsec=frontcover&dq=Fiction&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xY_wLc0i3w8C&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_and_Times_of_Major_Fiction.html?hl=&id=xY_wLc0i3w8C"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Life_and_Times_of_Major_Fiction-sample-pdf.acsm?id=xY_wLc0i3w8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xY_wLc0i3w8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Combining comedy and nightmare, these stories distinguish themselves by the charge of their imaginative life, their concern with language, and the play and replay of their form."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nXSmAwAAQBAJ",
+      "etag": "U7iF2gieooA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nXSmAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The First Wives Club",
+        "authors": [
+          "Olivia Goldsmith"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2008-04",
+        "description": "A re-release of a best-selling tale features three New York society ex-wives--Elise, Brenda, and Annie--who band together to seek revenge on the husbands who discarded them for younger women. By the author of Marrying Mom. Reprint. 17,500 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416562832"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1416562834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nXSmAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nXSmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nXSmAwAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nXSmAwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_First_Wives_Club.html?hl=&id=nXSmAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nXSmAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Three first wives band together to take their due from the men who used them, abused them, and then dumped them."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qoYLAQAAMAAJ",
+      "etag": "ihejn0FO+Cc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qoYLAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Citizen Couzinet",
+        "subtitle": "Hollywood-sur-Gironde",
+        "authors": [
+          "Françoise Mamolar"
+        ],
+        "publisher": "Editions Bonne Anse",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015082733687"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Motion picture producers and directors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qoYLAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qoYLAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=qoYLAQAAMAAJ&q=Fiction&dq=Fiction&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qoYLAQAAMAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Citizen_Couzinet.html?hl=&id=qoYLAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qoYLAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eFiction\u003c/b\u003e CM Studios de la Côte dArgent - Bordeaux Ext. : Bourg- sur-Gironde Studios de la Côte dArgent - Bordeaux Studios de la Côte dArgent - Bordeaux \u003cb\u003eFiction\u003c/b\u003e - comédie (gaie) LM 85 min Studios de la Côte dArgent - Bordeaux Ext."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HvsUAAAAMAAJ",
+      "etag": "uSHJHp1uxZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HvsUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Choices",
+        "subtitle": "A Core Collection for Young Reluctant Readers",
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015021520773"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 554,
+        "printType": "BOOK",
+        "categories": [
+          "Reading"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HvsUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HvsUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HvsUAAAAMAAJ&pg=PA544&dq=Fiction&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HvsUAAAAMAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Choices.html?hl=&id=HvsUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HvsUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wmrqaYNQ79AC",
+      "etag": "uFdDeIt/bZI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wmrqaYNQ79AC",
+      "volumeInfo": {
+        "title": "The Approaching Storm: Star Wars Legends",
+        "authors": [
+          "Alan Dean Foster"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2011-06-28",
+        "description": "“ENTERTAINING AND INTELLIGENT . . . This book is pure class all the way. . . . The final page is a great climax.” –Starburst The Republic is decaying, even under the leadership of Supreme Chancellor Palpatine, who was elected to save the galaxy from collapsing under the forces of discontent. On the tiny but strategic planet of Ansion, a powerful faction is on the verge of joining the growing secessionist movement. At the Chancellor’s request, the Jedi Council sends two Jedi Knights, Obi-Wan Kenobi and Luminara Unduli, along with their Padawans Anakin Skywalker and Barriss Offee, to stabilize the planet’s population. To succeed, the Jedi will have to fulfill near-impossible tasks, befriend wary strangers, and influence two great armies, stalked all the while by an enemy sworn to see the negotiations collapse and the mission fail. . . . Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307795717"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307795713"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wmrqaYNQ79AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wmrqaYNQ79AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wmrqaYNQ79AC&dq=Fiction&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wmrqaYNQ79AC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Approaching_Storm_Star_Wars_Legends.html?hl=&id=wmrqaYNQ79AC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wmrqaYNQ79AC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“ENTERTAINING AND INTELLIGENT . . . This book is pure class all the way. . ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AVXPAgAAQBAJ",
+      "etag": "v4qzURfAj9o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AVXPAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Cambridge Companion to American Fiction after 1945",
+        "authors": [
+          "John N. Duvall"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2011-12-08",
+        "description": "Each generation revises literary history and this is nowhere more evident than in the post-Second World War period. This 2011 Companion offers a comprehensive, authoritative and accessible overview of the diversity of American fiction since the Second World War. Essays by nineteen distinguished scholars provide critical insights into the significant genres, historical contexts, cultural diversity and major authors during a period of enormous American global political and cultural power. This power is overshadowed, nevertheless, by national anxieties growing out of events ranging from the Civil Rights Movement to the rise of feminism; from the Cold War and its fear of Communism and nuclear warfare to the Age of Terror and its different yet related fears of the 'Other'. American fiction since 1945 has faithfully chronicled these anxieties. An essential reference guide, this Companion provides a chronology of the period, as well as guides to further reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107493544"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107493544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AVXPAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AVXPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AVXPAgAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AVXPAgAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cambridge_Companion_to_American_Fict.html?hl=&id=AVXPAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cambridge_Companion_to_American_Fict-sample-pdf.acsm?id=AVXPAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AVXPAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Each generation revises literary history and this is nowhere more evident than in the post-Second World War period."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tr_fAAAAMAAJ",
+      "etag": "CDFhRbRZV0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tr_fAAAAMAAJ",
+      "volumeInfo": {
+        "title": "American Book Publishing Record",
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015066180459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 748,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.16.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tr_fAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tr_fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tr_fAAAAMAAJ&pg=RA1-PA365&dq=Fiction&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tr_fAAAAMAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Book_Publishing_Record.html?hl=&id=tr_fAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tr_fAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YyR9aUPU9vkC",
+      "etag": "P5mrmkCiBYo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YyR9aUPU9vkC",
+      "volumeInfo": {
+        "title": "In Fifteen Minutes You Can Say a Lot",
+        "subtitle": "Selected Fiction",
+        "authors": [
+          "Greville Texidor"
+        ],
+        "publisher": "Victoria University Press",
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0864730462"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780864730466"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "New Zealand"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YyR9aUPU9vkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YyR9aUPU9vkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YyR9aUPU9vkC&printsec=frontcover&dq=Fiction&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YyR9aUPU9vkC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/In_Fifteen_Minutes_You_Can_Say_a_Lot.html?hl=&id=YyR9aUPU9vkC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/In_Fifteen_Minutes_You_Can_Say_a_Lot-sample-pdf.acsm?id=YyR9aUPU9vkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YyR9aUPU9vkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vPommpWbM7UC",
+      "etag": "F/0585dfeqs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vPommpWbM7UC",
+      "volumeInfo": {
+        "title": "Contemporary Chinese Fiction by Su Tong and Yu Hua",
+        "subtitle": "Coming of Age in Troubled Times",
+        "authors": [
+          "Hua Li"
+        ],
+        "publisher": "BRILL",
+        "publishedDate": "2011-02-18",
+        "description": "The focus of this study is coming of age in troubled Cultural Revolutionary times as portrayed in contemporary Chinese Bildungsroman fiction by Su Tong and Yu Hua, along with a comprehensive overview of the Bildungsroman in China and the west.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789004202269"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9004202269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vPommpWbM7UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vPommpWbM7UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vPommpWbM7UC&printsec=frontcover&dq=Fiction&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vPommpWbM7UC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contemporary_Chinese_Fiction_by_Su_Tong.html?hl=&id=vPommpWbM7UC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Contemporary_Chinese_Fiction_by_Su_Tong-sample-pdf.acsm?id=vPommpWbM7UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vPommpWbM7UC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The focus of this study is coming of age in troubled Cultural Revolutionary times as portrayed in contemporary Chinese Bildungsroman fiction by Su Tong and Yu Hua, along with a comprehensive overview of the Bildungsroman in China and the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J8mN00foJiMC",
+      "etag": "oCZZQpjLp/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J8mN00foJiMC",
+      "volumeInfo": {
+        "title": "Night, Again",
+        "subtitle": "Contemporary Fiction from Vietnam",
+        "authors": [
+          "Linh Dinh"
+        ],
+        "publisher": "Seven Stories Press",
+        "publishedDate": "2011-01-04",
+        "description": "A couple's scheme to get rich by killing their father backfires, leaving them in charge of a cripple. In heaven, a baby, dead through neglect, tells his playmates: \"Life down there is just one long sleep.\" A young soldier, saved by a stranger, can never again find her to thank her. A man carries a massive clock. Using a variety of techniques and styles, in this collection of twelve short stories contemporary Vietnamese writers—edited by poet, short story writer, and novelist Linh Dinh—show us Vietnam through their own eyes. Night, Again breaks with the traditional views of the Vietnamese that have focused on the Vietnam War and turns our attention to postwar life in Vietnam. These writers present impressions--at once strange and familiar--of postwar realities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781583229682"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "158322968X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J8mN00foJiMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J8mN00foJiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=J8mN00foJiMC&printsec=frontcover&dq=Fiction&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=J8mN00foJiMC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Night_Again.html?hl=&id=J8mN00foJiMC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Night_Again-sample-epub.acsm?id=J8mN00foJiMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Night_Again-sample-pdf.acsm?id=J8mN00foJiMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J8mN00foJiMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Using a variety of techniques and styles, in this collection of twelve short stories contemporary Vietnamese writers—edited by poet, short story writer, and novelist Linh Dinh—show us Vietnam through their own eyes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rrOeg3_HdYwC",
+      "etag": "DTy5rPCZsLU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rrOeg3_HdYwC",
+      "volumeInfo": {
+        "title": "A Ready-Made Life",
+        "subtitle": "Early Masters of Modern Korean Fiction",
+        "authors": [
+          "Chong-un Kim"
+        ],
+        "publisher": "University of Hawaii Press",
+        "publishedDate": "1998-07-01",
+        "description": "A Ready Made Life is the first volume of early modern Korean fiction to appear in English in the U.S. Written between 1921 and 1943, the sixteen stories are an excellent introduction to the riches of modern Korean fiction. They reveal a variety of settings, voices, styles, and thematic concerns, and the best of them, masterpieces written mainly in the mid-1930s, display an impressive artistic maturity. Included among these authors are Hwang Sun-won, modern Korea's greatest short story writer; Kim Tong-in, regarded by many as the author who best captures the essence of the Korean identity; Ch'ae Man-shik, a master of irony; Yi Sang, a prominent modernist; Kim Yu-jong, whose stories are marked by a unique blend of earthy humor and compassion; Yi Kwang-su and Kim Tong-ni, modernizers of the language of twentieth-century Korean fiction; and Yi Ki-yúng, Yi T'ae-jun, and Pak T'ae-won, three writers who migrated to North Korea shortly after Liberation in 1945 and whose works were subsequently banned in South Korea until democratization in the late 1980s. One way of reading the stories, all of which were written during the Japanese occupation, is that beneath their often oppressive and gloomy surface lies an anticolonial subtext. They can also be read as a collective record of a people whose life choices were severely restricted, not just by colonization, but by education (either too little or too much, as the title story shows) and by a highly structured society that had little tolerance for those who overstepped its boundaries. Life was unremittingly onerous for many Koreans during this period, whatever their social background. In the stories, educated city folk fare little better than farmers and laborers. A Ready-Made Life will provide scholars and students with crucial access to the literature of Korea's colonial period. A generous opening essay discusses the collection in the context of modern Korean literary history, and short introductions precede each story. Here is a richly diverse testament to a modern literature that is poised to assume a long overdue place in world literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0824820711"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780824820718"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rrOeg3_HdYwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rrOeg3_HdYwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rrOeg3_HdYwC&printsec=frontcover&dq=Fiction&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rrOeg3_HdYwC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Ready_Made_Life.html?hl=&id=rrOeg3_HdYwC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Ready_Made_Life-sample-epub.acsm?id=rrOeg3_HdYwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Ready_Made_Life-sample-pdf.acsm?id=rrOeg3_HdYwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rrOeg3_HdYwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the stories, educated city folk fare little better than farmers and laborers. A Ready-Made Life will provide scholars and students with crucial access to the literature of Korea&#39;s colonial period."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gyBlzgEACAAJ",
+      "etag": "/10J12sCoP4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gyBlzgEACAAJ",
+      "volumeInfo": {
+        "title": "All Around the Moon (illustrated Edition)",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publishedDate": "2021-04-05",
+        "description": "Around the Moon, also translated as Circling the Moon and All Around the Moon, is the sequel to Jules Verne's 1865 novel, From the Earth to the Moon. It's a science fiction tale which continues the trip to the moon that was only begun in the first novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798733407074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gyBlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gyBlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gyBlzgEACAAJ&dq=Fiction&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gyBlzgEACAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/All_Around_the_Moon_illustrated_Edition.html?hl=&id=gyBlzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gyBlzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It&#39;s a science fiction tale which continues the trip to the moon that was only begun in the first novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XAbsBgAAQBAJ",
+      "etag": "EmRlVt8hJP4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XAbsBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Jules Verne, de la fable à la fiction",
+        "subtitle": "une anamorphose du réel",
+        "authors": [
+          "Jacques Pezeu-Massabuau"
+        ],
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "2015",
+        "description": "Au cours de quarante années (1863-1905) et soixante-deux romans, Jules Verne s'est appliqué à déconstruire la forme classique du roman d'aventures, \"détournant\" chacun des éléments dont il se constitue - la figure convenue du héros et du savant, leurs valeurs morales, l'étendue et la durée de leur entreprise, leurs exploits, leurs voyages, enfin l'esprit même de l'aventure - dont il compose une figure nouvelle, la sienne, où le réel s'associera au rêve selon une autre logique, aussi convaincante que la première. Ce qu'est exactement une anamorphose. Mais cette \"subversion\" tous azimuts où il transforme ainsi la fable - les événements à rapporter - en une fiction où il entend nous conduire, est faite aussi d'omissions : l'anticipation, le fantastique, l'amour, en sont désormais absents et le happy end n'y arrive pas toujours. L'anamorphose vernienne n'éclate pas au regard comme celles de l'art (telles les peintures d'Arcimboldo), mais se dégage sourdement de ces merveilleuses histoires, dont le style, tantôt brillant tantôt rapide mais jamais indifférent, s'ouvre aussi au lecteur le plus candide : Verne possède, seul peut-être en France avec La Fontaine, le génie de séduire l'enfant et l'adulte, le naïf et le lettré, chacun y trouvant une nourriture au niveau de son attente. Pour cela, il met en action toutes les ressources, austères ou ludiques, du langage, ouvrant au lecteur des chemins inattendus et de nouvelles évasions. Comme chez tous les grands écrivains, le lire découvre des choses là où nul ne les voyait, et en fait exister de nouvelles qu'on ne saurait voir que par lui. L'aura dont il enveloppe ainsi l'aventure se compose non d'exotisme ni de poésie, ni même de véritable suspense, mais de très concrètes réalités, subtilement disposées aux franges de l'illusion. Semi-rupture onirique avec le monde, d'où le lecteur des Voyages extraordinaires \"décolle\" avec délices vers une autre vérité dont le romancier détient la clé.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782343049786"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2343049785"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure and adventurers in literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XAbsBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XAbsBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=XAbsBgAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XAbsBgAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jules_Verne_de_la_fable_%C3%A0_la_fiction.html?hl=&id=XAbsBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Jules_Verne_de_la_fable_%C3%A0_la_fiction-sample-pdf.acsm?id=XAbsBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XAbsBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Au cours de quarante années (1863-1905) et soixante-deux romans, Jules Verne s&#39;est appliqué à déconstruire la forme classique du roman d&#39;aventures, &quot;détournant&quot; chacun des éléments dont il se constitue - la figure convenue du héros ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WsHQAQAAQBAJ",
+      "etag": "HHqYejU/o7Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WsHQAQAAQBAJ",
+      "volumeInfo": {
+        "title": "John Banville's Narcissistic Fictions",
+        "subtitle": "The Spectral Self",
+        "authors": [
+          "M. O'Connell"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2013-09-20",
+        "description": "In reading Banville's novels through the work of key psychoanalytical theorists, John Banville's Narcissistic Fictions brings together apparently disparate thematic strands - missing twins, shame, false identities - and presents these as manifestations of a central concern with narcissism.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781137365248"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1137365242"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 233,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WsHQAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WsHQAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WsHQAQAAQBAJ&pg=PT98&dq=Fiction&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WsHQAQAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/John_Banville_s_Narcissistic_Fictions.html?hl=&id=WsHQAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/John_Banville_s_Narcissistic_Fictions-sample-epub.acsm?id=WsHQAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/John_Banville_s_Narcissistic_Fictions-sample-pdf.acsm?id=WsHQAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WsHQAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In encountering an encrypted description of thenovelweare currently reading,within that novel&#39;s fictional world, weare madeconscious of the statusof thenovel as \u003cb\u003efiction\u003c/b\u003e, but also ofthe nebulous distinction betweenthe author,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tJRlDwAAQBAJ",
+      "etag": "ksSuPLk2Ju8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tJRlDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gothic Reflections",
+        "subtitle": "Narrative Force in Nineteenth-Century Fiction",
+        "authors": [
+          "Peter Garrett"
+        ],
+        "publisher": "Cornell University Press",
+        "publishedDate": "2018-08-06",
+        "description": "The Gothic has long been seen as offering a subversive challenge to the norms of realism. Locating both Gothic and mainstream Victorian fiction in a larger literary and cultural field, Peter K. Garrett argues that the oppositions usually posed between them are actually at work within both. He further shows how, by offering alternative versions of its stories, nineteenth-century Gothic fiction repeatedly reflects on narrative force, the power exerted by both writers and readers. Beginning with Poe's theory and practice of the Gothic tale as an exercise (or fantasy) of authorial power, Garrett then reads earlier eighteenth-century and Romantic Gothic fiction for comparable reflexive implications. Throughout, he stresses the ways authors doubled both characters and narrative perspectives to raise issues of power and authority in the tension between central deviant figures and social norms. Garrett then shows how the great nineteenth-century monster stories Frankenstein, Dr. Jekyll and Mr. Hyde, and Dracula self-consciously link the extremity and isolation of their deviant figures with the social groups they confront. These narratives, he argues, move from a Romantic concern with individual creation and responsibility to a Victorian affirmation of social solidarity that also reveals its dependence on the binding force of exclusionary violence. The final section of the book extends its investigation of Gothic reflections on narrative force into the more realistic social and psychological fiction of Dickens, Eliot, and James.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501724282"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501724282"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tJRlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tJRlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tJRlDwAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tJRlDwAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gothic_Reflections.html?hl=&id=tJRlDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tJRlDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The final section of the book extends its investigation of Gothic reflections on narrative force into the more realistic social and psychological fiction of Dickens, Eliot, and James."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a6-fEAAAQBAJ",
+      "etag": "YHH70X4uL3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a6-fEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Story",
+        "subtitle": "100 Great Short Stories Written by Women",
+        "authors": [
+          "Victoria Hislop"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "publishedDate": "2013-08-22",
+        "description": "Witty, heartbreaking, shocking, satirical: the short story can excite or sadden, entice or repulse. The one thing it can never be is dull. Now Victoria Hislop, passionate ambassador for the art of the short story, has collected 100 stories from her favourite women writers into one volume. Here are Man Booker Prize winners and Nobel Laureates, well-known feminists and famous wits, national treasures and rising stars. All handpicked by one of the nation's best-loved novelists, there's a story for every mood, mind-set and moment in life. Featuring an all star cast of authors including Chimamanda Ngozi Adichie, Angela Carter, Margaret Drabble, Penelope Fitzgerald, Miranda July, Doris Lessing, Katherine Mansfield, Alice Munro, Dorothy Parker and Virginia Woolf, THE STORY is the biggest and most beautiful collectino of women's short fiction in print today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781853603"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781853606"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1142,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a6-fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a6-fEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=a6-fEAAAQBAJ&dq=Fiction&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=a6-fEAAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Story.html?hl=&id=a6-fEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a6-fEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Witty, heartbreaking, shocking, satirical: the short story can excite or sadden, entice or repulse. The one thing it can never be is dull."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xJYhAQAAIAAJ",
+      "etag": "Fofa/GiYauM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xJYhAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Romanica gandensia",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105016654746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 792,
+        "printType": "BOOK",
+        "categories": [
+          "Romance philology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xJYhAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xJYhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=xJYhAQAAIAAJ&q=Fiction&dq=Fiction&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xJYhAQAAIAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romanica_gandensia.html?hl=&id=xJYhAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xJYhAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le prologue de Gargantua , qui introduit un discours de \u003cb\u003efiction\u003c/b\u003e , pose les problèmes avec acuité . Dans quelle mesure sort - il du système de la \u003cb\u003efiction\u003c/b\u003e ? Est - il métatexte ou commence ( continue ) - t - il la \u003cb\u003efiction\u003c/b\u003e ?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9boQAQAAMAAJ",
+      "etag": "Pk5kZatg8BQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9boQAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Exploring the Great Lakes States Through Literature",
+        "authors": [
+          "Kathy Howard Latrobe"
+        ],
+        "publisher": "Greenwood",
+        "publishedDate": "1994",
+        "description": "Combines 7 annotated regional resource guides to print and nonprint materials for grades K-9.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015001469189"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": [
+          "Lake States"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9boQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9boQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9boQAQAAMAAJ&q=Fiction&dq=Fiction&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9boQAQAAMAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exploring_the_Great_Lakes_States_Through.html?hl=&id=9boQAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9boQAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Baseball players — Biography, 85 Basketball, 21,78 Basketball— Biography, 20, 44 Basketball — Biography — United States, 21 Basketball — Indiana — History, 21 Bears — \u003cb\u003eFiction\u003c/b\u003e, 3 1 Beaumont, William, 1785-1853, 43, 97 Beavers,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xzH2G-8hIQwC",
+      "etag": "Ty/6K/Mv5co",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xzH2G-8hIQwC",
+      "volumeInfo": {
+        "title": "RUBURY:NOVELTY OF NEWSPAPERS P",
+        "authors": [
+          "Matthew Rubery"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2009-06-01",
+        "description": "Rapid industrialization and new advances in technology marked the Victorian period as one of prodigious socio-cultural change. Chief among the many transformations of quotidian life was the swift and widespread dissemination of information made possible by the emergence of the daily newspaper, an unprecedented new media. The changes it wrought in politics, history, and advertising of the age have all been well-documented. But its influence on one area remains overlooked: the Victorian novel. Redressing this oversight, The Novelty of Newspapers highlights the variety of ways the changing world of nineteenth-century journalism shaped the period's most popular literary form. Arising in the 1800s and soon drawing a million readers a day, the commercial press profoundly influenced the work of Bronte, Braddon, Dickens, Conrad, James, Trollope, and others who mined print journalism for fictional techniques. Five of the most important of these narrative conventions-the shipping intelligence, personal advertisement, leading article, interview, and foreign correspondence-show how the Victorian novel is best understood alongside the simultaneous development of newspapers. In highly original analyses of Victorian fiction, this study also captures the surprising ways in which public media enabled the expression of private feeling among ordinary readers: from the trauma caused by a lover's reported suicide to the vicarious gratification felt during a celebrity interview; from the distress at finding one's behavior the subject of unflattering editorial commentary to the apprehension of distant cultures through the foreign correspondence. Combining a wealth of historical research with a series of astute close readings, The Novelty of Newspapers breaks down the assumed divide between the epoch's literature and journalism and demonstrates that newsprint was integral to the development of the novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199708987"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199708983"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 245,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xzH2G-8hIQwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xzH2G-8hIQwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xzH2G-8hIQwC&printsec=frontcover&dq=Fiction&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xzH2G-8hIQwC&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/RUBURY_NOVELTY_OF_NEWSPAPERS_P.html?hl=&id=xzH2G-8hIQwC"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/RUBURY_NOVELTY_OF_NEWSPAPERS_P-sample-epub.acsm?id=xzH2G-8hIQwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/RUBURY_NOVELTY_OF_NEWSPAPERS_P-sample-pdf.acsm?id=xzH2G-8hIQwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xzH2G-8hIQwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Combining a wealth of historical research with a series of astute close readings, The Novelty of Newspapers breaks down the assumed divide between the epoch&#39;s literature and journalism and demonstrates that newsprint was integral to the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b0HfzgEACAAJ",
+      "etag": "tZnNK7swMlU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b0HfzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Cambridge Companion to World Crime Fiction",
+        "authors": [
+          "Jesper Gulddal",
+          "Stewart King",
+          "Alistair Rolls"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2022-04-21",
+        "description": "Accessible yet comprehensive, this first systematic account of crime fiction across the globe offers a deep and thoroughly nuanced understanding of the genre's transnational history. Offering a lucid account of the major theoretical issues and comparative perspectives that constitute world crime fiction, this book introduces readers to the international crime fiction publishing industry, the translation and circulation of crime fiction, international crime fiction collections, the role of women in world crime fiction, and regional forms of crime fiction. It also illuminates the past and present of crime fiction in various supranational regions across the world, including East and South Asia, the Arab World, Sub-Saharan Africa, Europe and Scandinavia, as well as three spheres defined by a shared language, namely the Francophone, Lusophone, and Hispanic worlds. Thoroughly-researched and broad in scope, this book is as valuable for general readers as for undergraduate and postgraduate students of popular fiction and world literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1108723357"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108723350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b0HfzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b0HfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=b0HfzgEACAAJ&dq=Fiction&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=b0HfzgEACAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cambridge_Companion_to_World_Crime_F.html?hl=&id=b0HfzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b0HfzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Thoroughly-researched and broad in scope, this book is as valuable for general readers as for undergraduate and postgraduate students of popular fiction and world literature."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8oMcEAAAQBAJ",
+      "etag": "tN1heB26/gY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8oMcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Unless the Threat of Death is Behind Them",
+        "subtitle": "Hard-Boiled Fiction and Film Noir",
+        "authors": [
+          "John T. Irwin"
+        ],
+        "publisher": "JHU Press",
+        "publishedDate": "2006-10-25",
+        "description": "The noted literary critic delves into the psychology and significance of American hardboiled crime fiction and film noir of the 1930s and ’40s. Early in the twentieth century, American crime novelists like Dashiell Hammett and Raymond Chandler put forward a new kind of character: the “hard-boiled” detective, as exemplified by Sam Spade in The Maltese Falcon. Unlike the analytical detectives of nineteenth-century fiction, these new detectives encountered cases not as intricate logical puzzles but as stark challenges of manhood. John T. Irwin explores how the stories of these characters grapple with ideas of American masculinity. Professional codes are pitted against personal desires, resulting in either ruinous relationships or solitary integrity. In thematic conflicts between independence and subordination, all notions of manly independence prove subordinate to the hand of fate. Tracing the stylistic development of the genre, Irwin demonstrates the particular influence of the novel of manners, especially the writing of F. Scott Fitzgerald. He also shows that as hard-boiled fiction began to appear on the screen in film noir, it took on themes of female empowerment—just as women entered the workforce in large numbers. Finally, he discusses how these themes persist in contemporary dramatic series on television, representing the conflicted lives of Americans into the twenty-first century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780801889387"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0801889383"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 445,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8oMcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8oMcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8oMcEAAAQBAJ&printsec=frontcover&dq=Fiction&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8oMcEAAAQBAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Unless_the_Threat_of_Death_is_Behind_The.html?hl=&id=8oMcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8oMcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "John T. Irwin explores how the stories of these characters grapple with ideas of American masculinity. Professional codes are pitted against personal desires, resulting in either ruinous relationships or solitary integrity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uswnAAAAYAAJ",
+      "etag": "Y3lQl59XP7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uswnAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poétique",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X006171816"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 532,
+        "printType": "BOOK",
+        "categories": [
+          "Aesthetics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uswnAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uswnAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com/books?id=uswnAAAAYAAJ&q=Fiction&dq=Fiction&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uswnAAAAYAAJ&dq=Fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Po%C3%A9tique.html?hl=&id=uswnAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "DZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DZ",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uswnAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "OLSEN, Jon-Arild (2004), L&#39;Esprit du roman: Œuvre, \u003cb\u003efiction\u003c/b\u003e et récit, Bern, Peter Lang. Peirce, Charles Sanders (1978), Ecrits sur le signe, éd. et trad. G. Deledalle, Paris, Ed. du Seuil. PELLETIER, Jérôme (2000), «Voir un fictum dans&nbsp;..."
+      }
+    }
+  ]
+}
