@@ -1,20 +1,5 @@
 [
   {
-    "id":"2M.ma",
-    "name":"CAbdellah",
-    "title":"CAbdellah",
-    "publisher":"CAbdellah",
-    "launched":"2013-07-01",
-    "categories":["family","documentary","news"],
-    "languages":["ara","fra","eng"],
-    "logo":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/1.png",
-    "imgLang":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/1.png",
-    "imgItem":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/1.png",
-    "imgBook":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/1.png",
-    "summary":"على نمط وأسلوب هيمنجواي، يقدم يازبريني في هذه المجموعة القصصية حكايات عن الأقدار التي يتم سردها من وجهات نظر عدة، أحيانًا قد تبدو سطحية وأحيانًا عميقة جدًا، ومن الصعب ألا نشعر بإحساس عميق بالارتياح لأننا لا نشارك الكثير من هذه الشخصيات في حياتهم. غالبًا ما تشير هذه القصص إلى أنه ليس لدينا قدرة كبيرة على تشكيل مصائرنا. تظهر شخصية تدعى ماروس (الذي يحمل تشابهًا قويًا مع المؤلف) مرارًا وتكرارًا. إنه صحفي حر يسافر إلى أكثر الأماكن خطرًا في الشرق الأوسط وإفريقيا لتحقيق شغفه لمواجهة تحديات جديدة، ويسعى لتقديم أحد أعماله الأدبية في حفل للقراء في الولايات المتحدة، لكن لا يسعه إلا أن ينظر إلى وضعه ككاتب بإحساس قوي بالسخرية، حيث كان يميل دائمًا إلى تأمل حياته.",
-    "country":"DZ"
-  },
-  {
     "id":"SamiraTV.dz",
     "name":"CAbdellah",
     "alt_names":[],
@@ -51,6 +36,24 @@
     "replaced_by":null,
     "website":"http://www.natgeotv.ae/",
     "logo":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/2.png"
+  },
+  {"id":"2M.ma",
+    "name":"2M",
+    "alt_names":[],
+    "network":"2M",
+    "owners":[],
+    "country":"MA",
+    "subdivision":null,
+    "city":null,
+    "broadcast_area":["c/MA"],
+    "languages":["ara","fra","eng","fra"],
+    "categories":["family","documentary","news"],
+    "is_nsfw":false,
+    "launched":null,
+    "closed":null,
+    "replaced_by":null,
+    "website":"https://2m.ma/",
+    "logo":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/3.png"
   },
   {
     "id":"2MInternational.ma",
