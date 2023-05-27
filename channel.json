@@ -17,5 +17,24 @@
     "replaced_by":null,
     "website":"https://www.samiratv.dz/",
     "logo":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/1.png"
+  }, 
+  {
+    "id":"Chekirou.dz",
+    "name":"CAbdellah",
+    "alt_names":[],
+    "network":null,
+    "owners":["Samira Bezaouia"],
+    "country":"DZ",
+    "subdivision":null,
+    "city":null,
+    "broadcast_area":["c/DZ"],
+    "languages":["ara","fra","eng"],
+    "categories":["family","documentary","news"],
+    "is_nsfw":false,
+    "launched":"2013-07-01",
+    "closed":null,
+    "replaced_by":null,
+    "website":"https://www.samiratv.dz/",
+    "logo":"https://raw.githubusercontent.com/cabdellah/BoooK/main/cover/1.png"
   }
 ]
