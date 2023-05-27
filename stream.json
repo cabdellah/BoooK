@@ -1,29 +1,6 @@
 [
   {
     "channel":"algeria.dz",
-    "url":"",
-    "http_referrer":null,
-    "user_agent":null,
-    "status":"",
-    "width":null,
-    "height":null,
-    "bitrate":null,
-    "frame_rate":null,
-    "added_at":"",
-    "updated_at":"",
-    "checked_at":""
-  },  {
-    "channel":"Jijel.dz",
-    "url":"",
-    "http_referrer":null,
-    "user_agent":null,
-    "status":"",
-    "width":null,
-    "height":null,
-    "bitrate":null,
-    "frame_rate":null,
-    "added_at":"",
-    "updated_at":"",
-    "checked_at":""
+    "url":""
   }
 ]
