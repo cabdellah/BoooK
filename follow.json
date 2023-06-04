@@ -1,0 +1,27 @@
+[ 
+  {
+    "name":"يوتـــوب",
+    "icon":"youtube",
+    "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
+  },
+  {
+    "name":"فيسبـــوك",
+    "icon":"facebook",
+    "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
+  },
+  {
+    "name":"تويتـــر",
+    "icon":"twitter",
+    "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
+  },
+  {
+    "name":"انستقــرام",
+    "icon":"instagram",
+    "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
+  },
+  {
+    "name":"بنتـــرست",
+    "icon":"pinterest",
+    "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
+  }
+]
