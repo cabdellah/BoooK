@@ -1,27 +1,27 @@
 [ 
   {
     "name":"يوتـــوب",
-    "icon":"youtube",
+    "icon":"https://raw.githubusercontent.com/cabdellah/BoooK/main/images/youtube.svg",
     "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
   },
   {
     "name":"فيسبـــوك",
-    "icon":"facebook",
+    "icon":"https://raw.githubusercontent.com/cabdellah/BoooK/main/images/facebook.svg",
     "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
   },
   {
     "name":"تويتـــر",
-    "icon":"twitter",
+    "icon":"https://raw.githubusercontent.com/cabdellah/BoooK/main/images/twitter.svg",
     "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
   },
   {
     "name":"انستقــرام",
-    "icon":"instagram",
+    "icon":"https://raw.githubusercontent.com/cabdellah/BoooK/main/images/instagram.svg",
     "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
   },
   {
     "name":"بنتـــرست",
-    "icon":"pinterest",
+    "icon":"https://raw.githubusercontent.com/cabdellah/BoooK/main/images/pinterest.svg",
     "url":"https://play.google.com/store/apps/details?id=art.cabdellah.book"
   }
 ]
